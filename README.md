@@ -1,0 +1,1 @@
+# Do-Ladder-ao-ST-05-Criando-Controle-Proporcional-para-V-lvula-no-CODESYS-e-Factory-I-O
