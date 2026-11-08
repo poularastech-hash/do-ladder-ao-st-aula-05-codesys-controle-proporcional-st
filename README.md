@@ -18,9 +18,7 @@ Eliminação de Overshoot: Como fazer a válvula desacelerar suavemente conforme
 Sintonia de Ganho ($K_p$): Como ajustar a agressividade do controlador para a dinâmica da planta virtual
 Análise de Perturbação: O comportamento da malha de controle frente a perturbações externas (como a abertura da válvula de descarga) e o surgimento do erro estático (offset).
 
-📺 Assista à Aula Completa
-Quer ver a explicação passo a passo, a montagem da lógica e os testes práticos de bancada? Assista ao vídeo no canal do YouTube:
+📺 Assista à Aula Completa no canal do YouTube:
 👉 https://youtu.be/9u2-9xksSE0
 
-👨‍💻 Autor
-Desenvolvido por PoularasTech Mecatrônica e Automação Industrial ⚙️
+👨‍💻 Desenvolvido por PoularasTech Mecatrônica e Automação Industrial ⚙️
