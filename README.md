@@ -15,7 +15,8 @@ Neste projeto, resolvemos o clássico problema de *overshoot* (ultrapassagem do 
 
 🎯 O que você vai aprender com este projeto?
 Eliminação de Overshoot: Como fazer a válvula desacelerar suavemente conforme o nível se aproxima do setpoint.
-Sintonia de Ganho ($K_p$): Como ajustar a agressividade do controlador para a dinâmica da planta virtual[cite: 1].Análise de Perturbação: O comportamento da malha de controle frente a perturbações externas (como a abertura da válvula de descarga) e o surgimento do erro estático (offset).
+Sintonia de Ganho ($K_p$): Como ajustar a agressividade do controlador para a dinâmica da planta virtual
+Análise de Perturbação: O comportamento da malha de controle frente a perturbações externas (como a abertura da válvula de descarga) e o surgimento do erro estático (offset).
 
 📺 Assista à Aula Completa
 Quer ver a explicação passo a passo, a montagem da lógica e os testes práticos de bancada? Assista ao vídeo no canal do YouTube:
